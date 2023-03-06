@@ -1,0 +1,15 @@
+C:\Users\Eder\source\repos\Lista_Frutas\Lista_Frutas\obj\Debug\net6.0\Lista_Frutas.csproj.AssemblyReference.cache
+C:\Users\Eder\source\repos\Lista_Frutas\Lista_Frutas\obj\Debug\net6.0\Lista_Frutas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eder\source\repos\Lista_Frutas\Lista_Frutas\obj\Debug\net6.0\Lista_Frutas.AssemblyInfoInputs.cache
+C:\Users\Eder\source\repos\Lista_Frutas\Lista_Frutas\obj\Debug\net6.0\Lista_Frutas.AssemblyInfo.cs
+C:\Users\Eder\source\repos\Lista_Frutas\Lista_Frutas\obj\Debug\net6.0\Lista_Frutas.csproj.CoreCompileInputs.cache
+C:\Users\Eder\source\repos\Lista_Frutas\Lista_Frutas\bin\Debug\net6.0\Lista_Frutas.exe
+C:\Users\Eder\source\repos\Lista_Frutas\Lista_Frutas\bin\Debug\net6.0\Lista_Frutas.deps.json
+C:\Users\Eder\source\repos\Lista_Frutas\Lista_Frutas\bin\Debug\net6.0\Lista_Frutas.runtimeconfig.json
+C:\Users\Eder\source\repos\Lista_Frutas\Lista_Frutas\bin\Debug\net6.0\Lista_Frutas.dll
+C:\Users\Eder\source\repos\Lista_Frutas\Lista_Frutas\bin\Debug\net6.0\Lista_Frutas.pdb
+C:\Users\Eder\source\repos\Lista_Frutas\Lista_Frutas\obj\Debug\net6.0\Lista_Frutas.dll
+C:\Users\Eder\source\repos\Lista_Frutas\Lista_Frutas\obj\Debug\net6.0\refint\Lista_Frutas.dll
+C:\Users\Eder\source\repos\Lista_Frutas\Lista_Frutas\obj\Debug\net6.0\Lista_Frutas.pdb
+C:\Users\Eder\source\repos\Lista_Frutas\Lista_Frutas\obj\Debug\net6.0\Lista_Frutas.genruntimeconfig.cache
+C:\Users\Eder\source\repos\Lista_Frutas\Lista_Frutas\obj\Debug\net6.0\ref\Lista_Frutas.dll
