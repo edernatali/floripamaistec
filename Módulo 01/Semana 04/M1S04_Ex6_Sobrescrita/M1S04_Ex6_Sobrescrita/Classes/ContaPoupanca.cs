@@ -16,5 +16,20 @@ namespace M1S04_Ex6_Sobrescrita.Classes
                 throw new ArgumentException("Cliente precisa ser do tipo física!");
             }
         }
+        // Resposta exercício 06
+        public override void Sacar(decimal valor)
+        {
+            // Taxa de R$ 0,10 por saque
+            valor += 0.10M;
+            base.Sacar(valor);
+        }
+
+        // Resposta exercício 06
+        public override void Transferir(ContaBancaria conta, decimal valor)
+        {
+            // Taxa de R$ 0,05 por transferência
+            valor += 0.05M;
+            base.Transferir(conta, valor);
+        }
     }
 }
