@@ -1,0 +1,15 @@
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex6_Sobrescrita\M1S04_Ex6_Sobrescrita\bin\Debug\net6.0\M1S04_Ex6_Sobrescrita.exe
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex6_Sobrescrita\M1S04_Ex6_Sobrescrita\bin\Debug\net6.0\M1S04_Ex6_Sobrescrita.deps.json
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex6_Sobrescrita\M1S04_Ex6_Sobrescrita\bin\Debug\net6.0\M1S04_Ex6_Sobrescrita.runtimeconfig.json
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex6_Sobrescrita\M1S04_Ex6_Sobrescrita\bin\Debug\net6.0\M1S04_Ex6_Sobrescrita.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex6_Sobrescrita\M1S04_Ex6_Sobrescrita\bin\Debug\net6.0\M1S04_Ex6_Sobrescrita.pdb
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex6_Sobrescrita\M1S04_Ex6_Sobrescrita\obj\Debug\net6.0\M1S04_Ex6_Sobrescrita.csproj.AssemblyReference.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex6_Sobrescrita\M1S04_Ex6_Sobrescrita\obj\Debug\net6.0\M1S04_Ex6_Sobrescrita.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex6_Sobrescrita\M1S04_Ex6_Sobrescrita\obj\Debug\net6.0\M1S04_Ex6_Sobrescrita.AssemblyInfoInputs.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex6_Sobrescrita\M1S04_Ex6_Sobrescrita\obj\Debug\net6.0\M1S04_Ex6_Sobrescrita.AssemblyInfo.cs
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex6_Sobrescrita\M1S04_Ex6_Sobrescrita\obj\Debug\net6.0\M1S04_Ex6_Sobrescrita.csproj.CoreCompileInputs.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex6_Sobrescrita\M1S04_Ex6_Sobrescrita\obj\Debug\net6.0\M1S04_Ex6_Sobrescrita.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex6_Sobrescrita\M1S04_Ex6_Sobrescrita\obj\Debug\net6.0\refint\M1S04_Ex6_Sobrescrita.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex6_Sobrescrita\M1S04_Ex6_Sobrescrita\obj\Debug\net6.0\M1S04_Ex6_Sobrescrita.pdb
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex6_Sobrescrita\M1S04_Ex6_Sobrescrita\obj\Debug\net6.0\M1S04_Ex6_Sobrescrita.genruntimeconfig.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex6_Sobrescrita\M1S04_Ex6_Sobrescrita\obj\Debug\net6.0\ref\M1S04_Ex6_Sobrescrita.dll

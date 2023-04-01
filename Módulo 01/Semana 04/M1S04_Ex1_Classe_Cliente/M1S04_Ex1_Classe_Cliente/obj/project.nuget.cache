@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZYKoSRMkgUFBbgnI1BfjfY8VhV/tQ2j/aw+W6QWics8nv4S8L9MCrBpNpyfb/u9KbaIRM0RahGW+nwQ4esrR1g==",
+  "success": true,
+  "projectFilePath": "D:\\FullStack Senai - FloripaMaisTec\\Repositorio_GitHub\\floripamaistec\\Módulo 01\\Semana 04\\M1S04_Ex1_Classe_Cliente\\M1S04_Ex1_Classe_Cliente\\M1S04_Ex1_Classe_Cliente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

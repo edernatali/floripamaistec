@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LhOOoE3L+GhqdeiWiMvcX715P+UF2Vjlq64P23APWKq9C+nvx9xBGwUVCQ7JIA+eP0ffGGqNH1BRsTl9/aORlQ==",
+  "dgSpecHash": "xbvBGUP+32p8ZAS5BM2ETYNZ7u5UWqra9sxeN6P340aGmV3GvBycaCMBXq+jW040rBtIZLq/XGFEq93kNNRuJQ==",
   "success": true,
   "projectFilePath": "D:\\FullStack Senai - FloripaMaisTec\\Repositorio_GitHub\\floripamaistec\\Módulo 01\\Semana 03\\M1S03_Ex5_Transferencia_ContaBancaria\\ContaBancaria\\M1S03_Exercicio_ContaBancaria.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

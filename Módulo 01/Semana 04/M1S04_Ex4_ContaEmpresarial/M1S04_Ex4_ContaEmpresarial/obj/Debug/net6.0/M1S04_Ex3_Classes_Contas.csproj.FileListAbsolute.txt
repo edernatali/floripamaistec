@@ -1,0 +1,15 @@
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex3-Classes_Contas\M1S04_Ex3-Classes_Contas\obj\Debug\net6.0\M1S04_Ex3_Classes_Contas.csproj.AssemblyReference.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex3-Classes_Contas\M1S04_Ex3-Classes_Contas\obj\Debug\net6.0\M1S04_Ex3_Classes_Contas.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex3-Classes_Contas\M1S04_Ex3-Classes_Contas\obj\Debug\net6.0\M1S04_Ex3_Classes_Contas.AssemblyInfoInputs.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex3-Classes_Contas\M1S04_Ex3-Classes_Contas\obj\Debug\net6.0\M1S04_Ex3_Classes_Contas.AssemblyInfo.cs
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex3-Classes_Contas\M1S04_Ex3-Classes_Contas\obj\Debug\net6.0\M1S04_Ex3_Classes_Contas.csproj.CoreCompileInputs.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex3-Classes_Contas\M1S04_Ex3-Classes_Contas\bin\Debug\net6.0\M1S04_Ex3_Classes_Contas.exe
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex3-Classes_Contas\M1S04_Ex3-Classes_Contas\bin\Debug\net6.0\M1S04_Ex3_Classes_Contas.deps.json
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex3-Classes_Contas\M1S04_Ex3-Classes_Contas\bin\Debug\net6.0\M1S04_Ex3_Classes_Contas.runtimeconfig.json
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex3-Classes_Contas\M1S04_Ex3-Classes_Contas\bin\Debug\net6.0\M1S04_Ex3_Classes_Contas.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex3-Classes_Contas\M1S04_Ex3-Classes_Contas\bin\Debug\net6.0\M1S04_Ex3_Classes_Contas.pdb
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex3-Classes_Contas\M1S04_Ex3-Classes_Contas\obj\Debug\net6.0\M1S04_Ex3_Classes_Contas.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex3-Classes_Contas\M1S04_Ex3-Classes_Contas\obj\Debug\net6.0\refint\M1S04_Ex3_Classes_Contas.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex3-Classes_Contas\M1S04_Ex3-Classes_Contas\obj\Debug\net6.0\M1S04_Ex3_Classes_Contas.pdb
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex3-Classes_Contas\M1S04_Ex3-Classes_Contas\obj\Debug\net6.0\M1S04_Ex3_Classes_Contas.genruntimeconfig.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex3-Classes_Contas\M1S04_Ex3-Classes_Contas\obj\Debug\net6.0\ref\M1S04_Ex3_Classes_Contas.dll

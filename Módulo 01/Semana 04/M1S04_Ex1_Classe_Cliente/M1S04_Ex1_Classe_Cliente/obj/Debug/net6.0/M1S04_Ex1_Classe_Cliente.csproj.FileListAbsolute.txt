@@ -1,0 +1,15 @@
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex1_Classe_Cliente\M1S04_Ex1_Classe_Cliente\bin\Debug\net6.0\M1S04_Ex1_Classe_Cliente.exe
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex1_Classe_Cliente\M1S04_Ex1_Classe_Cliente\bin\Debug\net6.0\M1S04_Ex1_Classe_Cliente.deps.json
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex1_Classe_Cliente\M1S04_Ex1_Classe_Cliente\bin\Debug\net6.0\M1S04_Ex1_Classe_Cliente.runtimeconfig.json
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex1_Classe_Cliente\M1S04_Ex1_Classe_Cliente\bin\Debug\net6.0\M1S04_Ex1_Classe_Cliente.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex1_Classe_Cliente\M1S04_Ex1_Classe_Cliente\bin\Debug\net6.0\M1S04_Ex1_Classe_Cliente.pdb
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex1_Classe_Cliente\M1S04_Ex1_Classe_Cliente\obj\Debug\net6.0\M1S04_Ex1_Classe_Cliente.csproj.AssemblyReference.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex1_Classe_Cliente\M1S04_Ex1_Classe_Cliente\obj\Debug\net6.0\M1S04_Ex1_Classe_Cliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex1_Classe_Cliente\M1S04_Ex1_Classe_Cliente\obj\Debug\net6.0\M1S04_Ex1_Classe_Cliente.AssemblyInfoInputs.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex1_Classe_Cliente\M1S04_Ex1_Classe_Cliente\obj\Debug\net6.0\M1S04_Ex1_Classe_Cliente.AssemblyInfo.cs
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex1_Classe_Cliente\M1S04_Ex1_Classe_Cliente\obj\Debug\net6.0\M1S04_Ex1_Classe_Cliente.csproj.CoreCompileInputs.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex1_Classe_Cliente\M1S04_Ex1_Classe_Cliente\obj\Debug\net6.0\M1S04_Ex1_Classe_Cliente.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex1_Classe_Cliente\M1S04_Ex1_Classe_Cliente\obj\Debug\net6.0\refint\M1S04_Ex1_Classe_Cliente.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex1_Classe_Cliente\M1S04_Ex1_Classe_Cliente\obj\Debug\net6.0\M1S04_Ex1_Classe_Cliente.pdb
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex1_Classe_Cliente\M1S04_Ex1_Classe_Cliente\obj\Debug\net6.0\M1S04_Ex1_Classe_Cliente.genruntimeconfig.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex1_Classe_Cliente\M1S04_Ex1_Classe_Cliente\obj\Debug\net6.0\ref\M1S04_Ex1_Classe_Cliente.dll

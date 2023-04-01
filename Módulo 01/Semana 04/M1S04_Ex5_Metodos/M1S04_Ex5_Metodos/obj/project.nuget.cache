@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lVTP3N7I+gzwNhk+RQhF/R4wy/lVpBQ0JM5mP2pSIOt7+IArAdvZiflv4aa8jR/WLr5Ei1WBS6GDI97SDrBfMA==",
+  "success": true,
+  "projectFilePath": "D:\\FullStack Senai - FloripaMaisTec\\Repositorio_GitHub\\floripamaistec\\Módulo 01\\Semana 04\\M1S04_Ex5_Metodos\\M1S04_Ex5_Metodos\\M1S04_Ex5_Metodos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

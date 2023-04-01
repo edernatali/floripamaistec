@@ -1,0 +1,15 @@
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex2-base_ContaBancaria\M1S04_Ex2-base_ContaBancaria\obj\Debug\net6.0\M1S04_Ex2_base_ContaBancaria.csproj.AssemblyReference.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex2-base_ContaBancaria\M1S04_Ex2-base_ContaBancaria\obj\Debug\net6.0\M1S04_Ex2_base_ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex2-base_ContaBancaria\M1S04_Ex2-base_ContaBancaria\obj\Debug\net6.0\M1S04_Ex2_base_ContaBancaria.AssemblyInfoInputs.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex2-base_ContaBancaria\M1S04_Ex2-base_ContaBancaria\obj\Debug\net6.0\M1S04_Ex2_base_ContaBancaria.AssemblyInfo.cs
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex2-base_ContaBancaria\M1S04_Ex2-base_ContaBancaria\obj\Debug\net6.0\M1S04_Ex2_base_ContaBancaria.csproj.CoreCompileInputs.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex2-base_ContaBancaria\M1S04_Ex2-base_ContaBancaria\bin\Debug\net6.0\M1S04_Ex2_base_ContaBancaria.exe
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex2-base_ContaBancaria\M1S04_Ex2-base_ContaBancaria\bin\Debug\net6.0\M1S04_Ex2_base_ContaBancaria.deps.json
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex2-base_ContaBancaria\M1S04_Ex2-base_ContaBancaria\bin\Debug\net6.0\M1S04_Ex2_base_ContaBancaria.runtimeconfig.json
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex2-base_ContaBancaria\M1S04_Ex2-base_ContaBancaria\bin\Debug\net6.0\M1S04_Ex2_base_ContaBancaria.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex2-base_ContaBancaria\M1S04_Ex2-base_ContaBancaria\bin\Debug\net6.0\M1S04_Ex2_base_ContaBancaria.pdb
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex2-base_ContaBancaria\M1S04_Ex2-base_ContaBancaria\obj\Debug\net6.0\M1S04_Ex2_base_ContaBancaria.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex2-base_ContaBancaria\M1S04_Ex2-base_ContaBancaria\obj\Debug\net6.0\refint\M1S04_Ex2_base_ContaBancaria.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex2-base_ContaBancaria\M1S04_Ex2-base_ContaBancaria\obj\Debug\net6.0\M1S04_Ex2_base_ContaBancaria.pdb
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex2-base_ContaBancaria\M1S04_Ex2-base_ContaBancaria\obj\Debug\net6.0\M1S04_Ex2_base_ContaBancaria.genruntimeconfig.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex2-base_ContaBancaria\M1S04_Ex2-base_ContaBancaria\obj\Debug\net6.0\ref\M1S04_Ex2_base_ContaBancaria.dll

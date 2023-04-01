@@ -1,0 +1,15 @@
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex4_ContaEmpresarial\M1S04_Ex4_ContaEmpresarial\obj\Debug\net6.0\M1S04_Ex4_ContaEmpresarial.csproj.AssemblyReference.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex4_ContaEmpresarial\M1S04_Ex4_ContaEmpresarial\obj\Debug\net6.0\M1S04_Ex4_ContaEmpresarial.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex4_ContaEmpresarial\M1S04_Ex4_ContaEmpresarial\obj\Debug\net6.0\M1S04_Ex4_ContaEmpresarial.AssemblyInfoInputs.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex4_ContaEmpresarial\M1S04_Ex4_ContaEmpresarial\obj\Debug\net6.0\M1S04_Ex4_ContaEmpresarial.AssemblyInfo.cs
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex4_ContaEmpresarial\M1S04_Ex4_ContaEmpresarial\obj\Debug\net6.0\M1S04_Ex4_ContaEmpresarial.csproj.CoreCompileInputs.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex4_ContaEmpresarial\M1S04_Ex4_ContaEmpresarial\bin\Debug\net6.0\M1S04_Ex4_ContaEmpresarial.exe
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex4_ContaEmpresarial\M1S04_Ex4_ContaEmpresarial\bin\Debug\net6.0\M1S04_Ex4_ContaEmpresarial.deps.json
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex4_ContaEmpresarial\M1S04_Ex4_ContaEmpresarial\bin\Debug\net6.0\M1S04_Ex4_ContaEmpresarial.runtimeconfig.json
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex4_ContaEmpresarial\M1S04_Ex4_ContaEmpresarial\bin\Debug\net6.0\M1S04_Ex4_ContaEmpresarial.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex4_ContaEmpresarial\M1S04_Ex4_ContaEmpresarial\bin\Debug\net6.0\M1S04_Ex4_ContaEmpresarial.pdb
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex4_ContaEmpresarial\M1S04_Ex4_ContaEmpresarial\obj\Debug\net6.0\M1S04_Ex4_ContaEmpresarial.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex4_ContaEmpresarial\M1S04_Ex4_ContaEmpresarial\obj\Debug\net6.0\refint\M1S04_Ex4_ContaEmpresarial.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex4_ContaEmpresarial\M1S04_Ex4_ContaEmpresarial\obj\Debug\net6.0\M1S04_Ex4_ContaEmpresarial.pdb
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex4_ContaEmpresarial\M1S04_Ex4_ContaEmpresarial\obj\Debug\net6.0\M1S04_Ex4_ContaEmpresarial.genruntimeconfig.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 04\M1S04_Ex4_ContaEmpresarial\M1S04_Ex4_ContaEmpresarial\obj\Debug\net6.0\ref\M1S04_Ex4_ContaEmpresarial.dll

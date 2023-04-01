@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n1hmT4O+6IY76imyeIHemaqzHxgVTnUjHDj5gH2Ij5XIk4ofb+NsKq/N8i4hOOWLhJTp4/WxDruy7C7dSmDv/w==",
+  "success": true,
+  "projectFilePath": "D:\\FullStack Senai - FloripaMaisTec\\Repositorio_GitHub\\floripamaistec\\Módulo 01\\Semana 04\\M1S04_Ex4_ContaEmpresarial\\M1S04_Ex4_ContaEmpresarial\\M1S04_Ex4_ContaEmpresarial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
