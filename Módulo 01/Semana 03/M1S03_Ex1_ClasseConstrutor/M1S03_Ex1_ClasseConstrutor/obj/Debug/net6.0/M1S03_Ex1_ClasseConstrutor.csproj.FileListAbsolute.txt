@@ -1,0 +1,15 @@
+C:\Users\Eder\source\repos\M1S03_Ex1_ClasseConstrutor\M1S03_Ex1_ClasseConstrutor\bin\Debug\net6.0\M1S03_Ex1_ClasseConstrutor.exe
+C:\Users\Eder\source\repos\M1S03_Ex1_ClasseConstrutor\M1S03_Ex1_ClasseConstrutor\bin\Debug\net6.0\M1S03_Ex1_ClasseConstrutor.deps.json
+C:\Users\Eder\source\repos\M1S03_Ex1_ClasseConstrutor\M1S03_Ex1_ClasseConstrutor\bin\Debug\net6.0\M1S03_Ex1_ClasseConstrutor.runtimeconfig.json
+C:\Users\Eder\source\repos\M1S03_Ex1_ClasseConstrutor\M1S03_Ex1_ClasseConstrutor\bin\Debug\net6.0\M1S03_Ex1_ClasseConstrutor.dll
+C:\Users\Eder\source\repos\M1S03_Ex1_ClasseConstrutor\M1S03_Ex1_ClasseConstrutor\bin\Debug\net6.0\M1S03_Ex1_ClasseConstrutor.pdb
+C:\Users\Eder\source\repos\M1S03_Ex1_ClasseConstrutor\M1S03_Ex1_ClasseConstrutor\obj\Debug\net6.0\M1S03_Ex1_ClasseConstrutor.csproj.AssemblyReference.cache
+C:\Users\Eder\source\repos\M1S03_Ex1_ClasseConstrutor\M1S03_Ex1_ClasseConstrutor\obj\Debug\net6.0\M1S03_Ex1_ClasseConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eder\source\repos\M1S03_Ex1_ClasseConstrutor\M1S03_Ex1_ClasseConstrutor\obj\Debug\net6.0\M1S03_Ex1_ClasseConstrutor.AssemblyInfoInputs.cache
+C:\Users\Eder\source\repos\M1S03_Ex1_ClasseConstrutor\M1S03_Ex1_ClasseConstrutor\obj\Debug\net6.0\M1S03_Ex1_ClasseConstrutor.AssemblyInfo.cs
+C:\Users\Eder\source\repos\M1S03_Ex1_ClasseConstrutor\M1S03_Ex1_ClasseConstrutor\obj\Debug\net6.0\M1S03_Ex1_ClasseConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\Eder\source\repos\M1S03_Ex1_ClasseConstrutor\M1S03_Ex1_ClasseConstrutor\obj\Debug\net6.0\M1S03_Ex1_ClasseConstrutor.dll
+C:\Users\Eder\source\repos\M1S03_Ex1_ClasseConstrutor\M1S03_Ex1_ClasseConstrutor\obj\Debug\net6.0\refint\M1S03_Ex1_ClasseConstrutor.dll
+C:\Users\Eder\source\repos\M1S03_Ex1_ClasseConstrutor\M1S03_Ex1_ClasseConstrutor\obj\Debug\net6.0\M1S03_Ex1_ClasseConstrutor.pdb
+C:\Users\Eder\source\repos\M1S03_Ex1_ClasseConstrutor\M1S03_Ex1_ClasseConstrutor\obj\Debug\net6.0\M1S03_Ex1_ClasseConstrutor.genruntimeconfig.cache
+C:\Users\Eder\source\repos\M1S03_Ex1_ClasseConstrutor\M1S03_Ex1_ClasseConstrutor\obj\Debug\net6.0\ref\M1S03_Ex1_ClasseConstrutor.dll
