@@ -1,0 +1,15 @@
+C:\Users\Eder\source\repos\M1S05_TratExcRegraDeNegocio\M1S05_TratExcRegraDeNegocio\bin\Debug\net6.0\M1S05_TratExcRegraDeNegocio.exe
+C:\Users\Eder\source\repos\M1S05_TratExcRegraDeNegocio\M1S05_TratExcRegraDeNegocio\bin\Debug\net6.0\M1S05_TratExcRegraDeNegocio.deps.json
+C:\Users\Eder\source\repos\M1S05_TratExcRegraDeNegocio\M1S05_TratExcRegraDeNegocio\bin\Debug\net6.0\M1S05_TratExcRegraDeNegocio.runtimeconfig.json
+C:\Users\Eder\source\repos\M1S05_TratExcRegraDeNegocio\M1S05_TratExcRegraDeNegocio\bin\Debug\net6.0\M1S05_TratExcRegraDeNegocio.dll
+C:\Users\Eder\source\repos\M1S05_TratExcRegraDeNegocio\M1S05_TratExcRegraDeNegocio\bin\Debug\net6.0\M1S05_TratExcRegraDeNegocio.pdb
+C:\Users\Eder\source\repos\M1S05_TratExcRegraDeNegocio\M1S05_TratExcRegraDeNegocio\obj\Debug\net6.0\M1S05_TratExcRegraDeNegocio.csproj.AssemblyReference.cache
+C:\Users\Eder\source\repos\M1S05_TratExcRegraDeNegocio\M1S05_TratExcRegraDeNegocio\obj\Debug\net6.0\M1S05_TratExcRegraDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eder\source\repos\M1S05_TratExcRegraDeNegocio\M1S05_TratExcRegraDeNegocio\obj\Debug\net6.0\M1S05_TratExcRegraDeNegocio.AssemblyInfoInputs.cache
+C:\Users\Eder\source\repos\M1S05_TratExcRegraDeNegocio\M1S05_TratExcRegraDeNegocio\obj\Debug\net6.0\M1S05_TratExcRegraDeNegocio.AssemblyInfo.cs
+C:\Users\Eder\source\repos\M1S05_TratExcRegraDeNegocio\M1S05_TratExcRegraDeNegocio\obj\Debug\net6.0\M1S05_TratExcRegraDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Eder\source\repos\M1S05_TratExcRegraDeNegocio\M1S05_TratExcRegraDeNegocio\obj\Debug\net6.0\M1S05_TratExcRegraDeNegocio.dll
+C:\Users\Eder\source\repos\M1S05_TratExcRegraDeNegocio\M1S05_TratExcRegraDeNegocio\obj\Debug\net6.0\refint\M1S05_TratExcRegraDeNegocio.dll
+C:\Users\Eder\source\repos\M1S05_TratExcRegraDeNegocio\M1S05_TratExcRegraDeNegocio\obj\Debug\net6.0\M1S05_TratExcRegraDeNegocio.pdb
+C:\Users\Eder\source\repos\M1S05_TratExcRegraDeNegocio\M1S05_TratExcRegraDeNegocio\obj\Debug\net6.0\M1S05_TratExcRegraDeNegocio.genruntimeconfig.cache
+C:\Users\Eder\source\repos\M1S05_TratExcRegraDeNegocio\M1S05_TratExcRegraDeNegocio\obj\Debug\net6.0\ref\M1S05_TratExcRegraDeNegocio.dll

@@ -1,0 +1,15 @@
+C:\Users\Eder\source\repos\M1S05_TratExcGravandoArquivo\M1S05_TratExcGravandoArquivo\bin\Debug\net6.0\M1S05_TratExcGravandoArquivo.exe
+C:\Users\Eder\source\repos\M1S05_TratExcGravandoArquivo\M1S05_TratExcGravandoArquivo\bin\Debug\net6.0\M1S05_TratExcGravandoArquivo.deps.json
+C:\Users\Eder\source\repos\M1S05_TratExcGravandoArquivo\M1S05_TratExcGravandoArquivo\bin\Debug\net6.0\M1S05_TratExcGravandoArquivo.runtimeconfig.json
+C:\Users\Eder\source\repos\M1S05_TratExcGravandoArquivo\M1S05_TratExcGravandoArquivo\bin\Debug\net6.0\M1S05_TratExcGravandoArquivo.dll
+C:\Users\Eder\source\repos\M1S05_TratExcGravandoArquivo\M1S05_TratExcGravandoArquivo\bin\Debug\net6.0\M1S05_TratExcGravandoArquivo.pdb
+C:\Users\Eder\source\repos\M1S05_TratExcGravandoArquivo\M1S05_TratExcGravandoArquivo\obj\Debug\net6.0\M1S05_TratExcGravandoArquivo.csproj.AssemblyReference.cache
+C:\Users\Eder\source\repos\M1S05_TratExcGravandoArquivo\M1S05_TratExcGravandoArquivo\obj\Debug\net6.0\M1S05_TratExcGravandoArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eder\source\repos\M1S05_TratExcGravandoArquivo\M1S05_TratExcGravandoArquivo\obj\Debug\net6.0\M1S05_TratExcGravandoArquivo.AssemblyInfoInputs.cache
+C:\Users\Eder\source\repos\M1S05_TratExcGravandoArquivo\M1S05_TratExcGravandoArquivo\obj\Debug\net6.0\M1S05_TratExcGravandoArquivo.AssemblyInfo.cs
+C:\Users\Eder\source\repos\M1S05_TratExcGravandoArquivo\M1S05_TratExcGravandoArquivo\obj\Debug\net6.0\M1S05_TratExcGravandoArquivo.csproj.CoreCompileInputs.cache
+C:\Users\Eder\source\repos\M1S05_TratExcGravandoArquivo\M1S05_TratExcGravandoArquivo\obj\Debug\net6.0\M1S05_TratExcGravandoArquivo.dll
+C:\Users\Eder\source\repos\M1S05_TratExcGravandoArquivo\M1S05_TratExcGravandoArquivo\obj\Debug\net6.0\refint\M1S05_TratExcGravandoArquivo.dll
+C:\Users\Eder\source\repos\M1S05_TratExcGravandoArquivo\M1S05_TratExcGravandoArquivo\obj\Debug\net6.0\M1S05_TratExcGravandoArquivo.pdb
+C:\Users\Eder\source\repos\M1S05_TratExcGravandoArquivo\M1S05_TratExcGravandoArquivo\obj\Debug\net6.0\M1S05_TratExcGravandoArquivo.genruntimeconfig.cache
+C:\Users\Eder\source\repos\M1S05_TratExcGravandoArquivo\M1S05_TratExcGravandoArquivo\obj\Debug\net6.0\ref\M1S05_TratExcGravandoArquivo.dll

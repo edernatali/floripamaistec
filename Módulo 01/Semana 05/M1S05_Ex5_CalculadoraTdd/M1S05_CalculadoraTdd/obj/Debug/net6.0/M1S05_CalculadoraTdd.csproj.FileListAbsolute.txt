@@ -1,0 +1,45 @@
+C:\Users\Eder\source\repos\M1S05_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.csproj.AssemblyReference.cache
+C:\Users\Eder\source\repos\M1S05_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eder\source\repos\M1S05_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.AssemblyInfoInputs.cache
+C:\Users\Eder\source\repos\M1S05_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.AssemblyInfo.cs
+C:\Users\Eder\source\repos\M1S05_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.csproj.CoreCompileInputs.cache
+C:\Users\Eder\source\repos\M1S05_CalculadoraTdd\M1S05_CalculadoraTdd\bin\Debug\net6.0\M1S05_CalculadoraTdd.exe
+C:\Users\Eder\source\repos\M1S05_CalculadoraTdd\M1S05_CalculadoraTdd\bin\Debug\net6.0\M1S05_CalculadoraTdd.deps.json
+C:\Users\Eder\source\repos\M1S05_CalculadoraTdd\M1S05_CalculadoraTdd\bin\Debug\net6.0\M1S05_CalculadoraTdd.runtimeconfig.json
+C:\Users\Eder\source\repos\M1S05_CalculadoraTdd\M1S05_CalculadoraTdd\bin\Debug\net6.0\M1S05_CalculadoraTdd.dll
+C:\Users\Eder\source\repos\M1S05_CalculadoraTdd\M1S05_CalculadoraTdd\bin\Debug\net6.0\M1S05_CalculadoraTdd.pdb
+C:\Users\Eder\source\repos\M1S05_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.dll
+C:\Users\Eder\source\repos\M1S05_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\refint\M1S05_CalculadoraTdd.dll
+C:\Users\Eder\source\repos\M1S05_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.pdb
+C:\Users\Eder\source\repos\M1S05_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.genruntimeconfig.cache
+C:\Users\Eder\source\repos\M1S05_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\ref\M1S05_CalculadoraTdd.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex4_CalculadoraTdd\M1S05_CalculadoraTdd\bin\Debug\net6.0\M1S05_CalculadoraTdd.exe
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex4_CalculadoraTdd\M1S05_CalculadoraTdd\bin\Debug\net6.0\M1S05_CalculadoraTdd.deps.json
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex4_CalculadoraTdd\M1S05_CalculadoraTdd\bin\Debug\net6.0\M1S05_CalculadoraTdd.runtimeconfig.json
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex4_CalculadoraTdd\M1S05_CalculadoraTdd\bin\Debug\net6.0\M1S05_CalculadoraTdd.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex4_CalculadoraTdd\M1S05_CalculadoraTdd\bin\Debug\net6.0\M1S05_CalculadoraTdd.pdb
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex4_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.csproj.AssemblyReference.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex4_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex4_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.AssemblyInfoInputs.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex4_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.AssemblyInfo.cs
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex4_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.csproj.CoreCompileInputs.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex4_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex4_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\refint\M1S05_CalculadoraTdd.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex4_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.pdb
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex4_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.genruntimeconfig.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex4_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\ref\M1S05_CalculadoraTdd.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex5_CalculadoraTdd\M1S05_CalculadoraTdd\bin\Debug\net6.0\M1S05_CalculadoraTdd.exe
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex5_CalculadoraTdd\M1S05_CalculadoraTdd\bin\Debug\net6.0\M1S05_CalculadoraTdd.deps.json
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex5_CalculadoraTdd\M1S05_CalculadoraTdd\bin\Debug\net6.0\M1S05_CalculadoraTdd.runtimeconfig.json
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex5_CalculadoraTdd\M1S05_CalculadoraTdd\bin\Debug\net6.0\M1S05_CalculadoraTdd.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex5_CalculadoraTdd\M1S05_CalculadoraTdd\bin\Debug\net6.0\M1S05_CalculadoraTdd.pdb
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex5_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.csproj.AssemblyReference.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex5_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex5_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.AssemblyInfoInputs.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex5_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.AssemblyInfo.cs
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex5_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.csproj.CoreCompileInputs.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex5_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex5_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\refint\M1S05_CalculadoraTdd.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex5_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.pdb
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex5_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\M1S05_CalculadoraTdd.genruntimeconfig.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex5_CalculadoraTdd\M1S05_CalculadoraTdd\obj\Debug\net6.0\ref\M1S05_CalculadoraTdd.dll

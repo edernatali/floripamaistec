@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yfAXpxy8B4OuXrTR7ZdCdGSkrtz+snxQaiUvzwbgnkrjl7gpgYyF7jwIULbF6JGu5aNoJQEY/pqJibCO0sLYKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eder\\source\\repos\\M1S05_Ex1_TratExcDoisNumeros\\M1S05_Ex1_TratExcDoisNumeros\\M1S05_Ex1_TratExcDoisNumeros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Eder\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

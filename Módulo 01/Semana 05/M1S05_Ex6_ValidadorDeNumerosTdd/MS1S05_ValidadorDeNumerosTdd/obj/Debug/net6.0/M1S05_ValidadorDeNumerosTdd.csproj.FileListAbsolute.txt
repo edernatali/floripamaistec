@@ -1,0 +1,30 @@
+C:\Users\Eder\source\repos\MS1S05_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\bin\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.exe
+C:\Users\Eder\source\repos\MS1S05_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\bin\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.deps.json
+C:\Users\Eder\source\repos\MS1S05_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\bin\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.runtimeconfig.json
+C:\Users\Eder\source\repos\MS1S05_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\bin\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.dll
+C:\Users\Eder\source\repos\MS1S05_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\bin\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.pdb
+C:\Users\Eder\source\repos\MS1S05_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.csproj.AssemblyReference.cache
+C:\Users\Eder\source\repos\MS1S05_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eder\source\repos\MS1S05_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.AssemblyInfoInputs.cache
+C:\Users\Eder\source\repos\MS1S05_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.AssemblyInfo.cs
+C:\Users\Eder\source\repos\MS1S05_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.csproj.CoreCompileInputs.cache
+C:\Users\Eder\source\repos\MS1S05_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.dll
+C:\Users\Eder\source\repos\MS1S05_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\refint\M1S05_ValidadorDeNumerosTdd.dll
+C:\Users\Eder\source\repos\MS1S05_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.pdb
+C:\Users\Eder\source\repos\MS1S05_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.genruntimeconfig.cache
+C:\Users\Eder\source\repos\MS1S05_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\ref\M1S05_ValidadorDeNumerosTdd.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex6_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\bin\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.exe
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex6_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\bin\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.deps.json
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex6_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\bin\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.runtimeconfig.json
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex6_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\bin\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex6_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\bin\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.pdb
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex6_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.csproj.AssemblyReference.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex6_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex6_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.AssemblyInfoInputs.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex6_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.AssemblyInfo.cs
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex6_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.csproj.CoreCompileInputs.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex6_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex6_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\refint\M1S05_ValidadorDeNumerosTdd.dll
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex6_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.pdb
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex6_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\M1S05_ValidadorDeNumerosTdd.genruntimeconfig.cache
+D:\FullStack Senai - FloripaMaisTec\Repositorio_GitHub\floripamaistec\Módulo 01\Semana 05\M1S05_Ex6_ValidadorDeNumerosTdd\MS1S05_ValidadorDeNumerosTdd\obj\Debug\net6.0\ref\M1S05_ValidadorDeNumerosTdd.dll

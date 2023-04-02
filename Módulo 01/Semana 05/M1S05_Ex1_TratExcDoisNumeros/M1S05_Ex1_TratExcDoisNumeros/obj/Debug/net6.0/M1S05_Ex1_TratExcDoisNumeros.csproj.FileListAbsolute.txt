@@ -1,0 +1,15 @@
+C:\Users\Eder\source\repos\M1S05_Ex1_TratExcDoisNumeros\M1S05_Ex1_TratExcDoisNumeros\bin\Debug\net6.0\M1S05_Ex1_TratExcDoisNumeros.exe
+C:\Users\Eder\source\repos\M1S05_Ex1_TratExcDoisNumeros\M1S05_Ex1_TratExcDoisNumeros\bin\Debug\net6.0\M1S05_Ex1_TratExcDoisNumeros.deps.json
+C:\Users\Eder\source\repos\M1S05_Ex1_TratExcDoisNumeros\M1S05_Ex1_TratExcDoisNumeros\bin\Debug\net6.0\M1S05_Ex1_TratExcDoisNumeros.runtimeconfig.json
+C:\Users\Eder\source\repos\M1S05_Ex1_TratExcDoisNumeros\M1S05_Ex1_TratExcDoisNumeros\bin\Debug\net6.0\M1S05_Ex1_TratExcDoisNumeros.dll
+C:\Users\Eder\source\repos\M1S05_Ex1_TratExcDoisNumeros\M1S05_Ex1_TratExcDoisNumeros\bin\Debug\net6.0\M1S05_Ex1_TratExcDoisNumeros.pdb
+C:\Users\Eder\source\repos\M1S05_Ex1_TratExcDoisNumeros\M1S05_Ex1_TratExcDoisNumeros\obj\Debug\net6.0\M1S05_Ex1_TratExcDoisNumeros.csproj.AssemblyReference.cache
+C:\Users\Eder\source\repos\M1S05_Ex1_TratExcDoisNumeros\M1S05_Ex1_TratExcDoisNumeros\obj\Debug\net6.0\M1S05_Ex1_TratExcDoisNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eder\source\repos\M1S05_Ex1_TratExcDoisNumeros\M1S05_Ex1_TratExcDoisNumeros\obj\Debug\net6.0\M1S05_Ex1_TratExcDoisNumeros.AssemblyInfoInputs.cache
+C:\Users\Eder\source\repos\M1S05_Ex1_TratExcDoisNumeros\M1S05_Ex1_TratExcDoisNumeros\obj\Debug\net6.0\M1S05_Ex1_TratExcDoisNumeros.AssemblyInfo.cs
+C:\Users\Eder\source\repos\M1S05_Ex1_TratExcDoisNumeros\M1S05_Ex1_TratExcDoisNumeros\obj\Debug\net6.0\M1S05_Ex1_TratExcDoisNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Eder\source\repos\M1S05_Ex1_TratExcDoisNumeros\M1S05_Ex1_TratExcDoisNumeros\obj\Debug\net6.0\M1S05_Ex1_TratExcDoisNumeros.dll
+C:\Users\Eder\source\repos\M1S05_Ex1_TratExcDoisNumeros\M1S05_Ex1_TratExcDoisNumeros\obj\Debug\net6.0\refint\M1S05_Ex1_TratExcDoisNumeros.dll
+C:\Users\Eder\source\repos\M1S05_Ex1_TratExcDoisNumeros\M1S05_Ex1_TratExcDoisNumeros\obj\Debug\net6.0\M1S05_Ex1_TratExcDoisNumeros.pdb
+C:\Users\Eder\source\repos\M1S05_Ex1_TratExcDoisNumeros\M1S05_Ex1_TratExcDoisNumeros\obj\Debug\net6.0\M1S05_Ex1_TratExcDoisNumeros.genruntimeconfig.cache
+C:\Users\Eder\source\repos\M1S05_Ex1_TratExcDoisNumeros\M1S05_Ex1_TratExcDoisNumeros\obj\Debug\net6.0\ref\M1S05_Ex1_TratExcDoisNumeros.dll
